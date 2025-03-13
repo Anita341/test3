@@ -13,6 +13,6 @@ public class A {
         System.out.println("hello world");
         String n="bulbul";
         boolean isPresent=true;
-
+        char x='b';
     }
 }
