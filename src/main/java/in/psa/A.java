@@ -15,5 +15,7 @@ public class A {
         String n="bulbul";
         boolean isPresent=true;
       System.out.println("hiiii");
+        String y="priya";
+
     }
 }
