@@ -10,6 +10,9 @@ public class A {
         System.out.println(l);
         int a=1;
         int b=2;
-      System.out.println("hello world");
+        System.out.println("hello world");
+        String n="bulbul";
+        boolean isPresent=true;
+
     }
 }
