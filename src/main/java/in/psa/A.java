@@ -11,6 +11,7 @@ public class A {
         int a=1;
         int b=2;
         System.out.println("hello world");
+        char x='a';
         String n="bulbul";
         boolean isPresent=true;
 
