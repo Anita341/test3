@@ -14,6 +14,6 @@ public class A {
         char x='a';
         String n="bulbul";
         boolean isPresent=true;
-
+        String y="priya";
     }
 }
