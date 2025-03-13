@@ -13,7 +13,5 @@ public class A {
         String n="bulbul";
         boolean isPresent=true;
       System.out.println("bulbul");
-        int x = 10;
-
     }
 }
